@@ -191,7 +191,7 @@
 </table>
 
 <div>
-    <img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=ubermensch100326&show_icons=true&theme=tokyonight"> 
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ubermensch100326&show_icons=true&theme=tokyonight"> 
     <a href="https://solved.ac/profile/ubermensch100326">
 	  <img align="right" width="40%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ubermensch100326">
     </a>
