@@ -184,7 +184,7 @@
             <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
             <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=default"/><br>
         </td>
-        <td>2023. 12. 28.<br>~<br>2024. 02 .16.</td>
+        <td>2024. 01. 08.<br>~<br>2024. 02 .16.</td>
         <td><img src="https://img.shields.io/badge/Completed-004088?style=default"/></td>
     </tr>
 </table>
