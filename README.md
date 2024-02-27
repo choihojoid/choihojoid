@@ -13,6 +13,7 @@
 <h3 style="margin-top:30px">💪 Tech Stacks</h3>
 
 <div>
+
 <table>
     <tr>
         <th rowspan="4">🌐 Frontend</th>
@@ -159,7 +160,8 @@
             <img src="https://img.shields.io/badge/Java-437291?style=default&logo=openjdk&logoColor=white">
         </td>
     </tr>
-</table>	
+</table>
+
 </div>
 
 <h3 style="margin-top:30px">🗂️ Projects</h3>
