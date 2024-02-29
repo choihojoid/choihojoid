@@ -57,7 +57,7 @@
         </td>
     </tr>
 	<tr>
-        <td>ORM</td>
+        <td>Mapper</td>
         <td>
             <img src="https://img.shields.io/badge/MyBatis-000000?style=default&logo=Querydsl&logoColor=white"/>
         </td>
