@@ -176,7 +176,7 @@
         <th style="text-align: center" width="12%">State</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/ssafy-msg">Mafia in SNS Game</a></td>
+        <td><a href="https://github.com/d109-msg">Mafia in SNS Game</a></td>
         <td>사진을 기반으로 일상을 공유하는 기존 SNS 시스템에 리얼 타임으로 진행되는 마피아 게임을 추가한 반응형 웹 서비스</td>
         <td>
             <img src="https://img.shields.io/badge/2-Frontend-31A8FF?style=default"/>
