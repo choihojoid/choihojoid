@@ -10,7 +10,7 @@
 
 </div>
 
-<h3 style="margin-top:30px">💪 Tech Stacks</h3>
+<h3 style="margin-top:30px">💪 Tech Stack</h3>
 
 <div>
 
@@ -64,7 +64,7 @@
 
 </div>
 
-<h3 style="margin-top:30px">🗂️ Projects</h3>
+<h3 style="margin-top:30px">🗂️ Project</h3>
 
 <table>
     <tr>
