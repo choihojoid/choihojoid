@@ -69,12 +69,12 @@
 <table>
     <tr>
         <th style="text-align: center" width="10%">Subject</th>
-        <th style="text-align: center" width="34%">Description</th>
+        <th style="text-align: center" width="33%">Description</th>
         <th style="text-align: center" width="12%">Member</th>
         <th style="text-align: center" width="14%">Role</th>
         <th style="text-align: center" width="5%">Record</th>
         <th style="text-align: center" width="13%">Period</th>
-        <th style="text-align: center" width="12%">State</th>
+        <th style="text-align: center" width="11%">State</th>
     </tr>
     <tr>
         <td style="text-align: center;"><a href="https://github.com/d109-msg">MSG</a></td>
