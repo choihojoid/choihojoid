@@ -69,8 +69,8 @@
 <table>
     <tr>
         <th style="text-align: center" width="10%">Subject</th>
-        <th style="text-align: center" width="35%">Description</th>
-        <th style="text-align: center" width="10%">Member</th>
+        <th style="text-align: center" width="30%">Description</th>
+        <th style="text-align: center" width="15%">Member</th>
         <th style="text-align: center" width="15%">Role</th>
         <th style="text-align: center" width="5%">Record</th>
         <th style="text-align: center" width="13%">Period</th>
@@ -124,7 +124,7 @@
 </table>
 
 <div>
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ubermensch100326&show_icons=true&theme=gruvbox_light"> 
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ubermensch100326&show_icons=true&theme=default"> 
     <a href="https://solved.ac/profile/ubermensch100326">
 	  <img align="right" width="40%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ubermensch100326">
     </a>
