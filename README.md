@@ -68,15 +68,16 @@
 
 <table>
     <tr>
-        <th style="text-align: center" width="20%">Subject</th>
-        <th style="text-align: center" width="30%">Description</th>
-        <th style="text-align: center" width="10%">Organization</th>
-        <th style="text-align: center" width="15%">My Roles</th>
+        <th style="text-align: center" width="10%">Subject</th>
+        <th style="text-align: center" width="35%">Description</th>
+        <th style="text-align: center" width="10%">Member</th>
+        <th style="text-align: center" width="15%">Role</th>
+        <th style="text-align: center" width="5%">Record</th>
         <th style="text-align: center" width="13%">Period</th>
         <th style="text-align: center" width="12%">State</th>
     </tr>
     <tr>
-        <td><a href="https://github.com/d109-msg">Mafia in SNS Game</a></td>
+        <td><a href="https://github.com/d109-msg">MSG</a></td>
         <td>사진을 기반으로 일상을 공유하는 기존 SNS 시스템에 리얼 타임으로 진행되는 마피아 게임을 추가한 반응형 웹 서비스</td>
         <td>
             <img src="https://img.shields.io/badge/2-Frontend-31A8FF?style=default"/>
@@ -84,8 +85,9 @@
         </td>
         <td>
             <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
-            <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=default"/><br>
+            <img src="https://img.shields.io/badge/Infrastructure-FF9A00?style=default"/><br>
         </td>
+        <td><a href="https://ubermensch100326.tistory.com/241">📃</a></td>
         <td>2024. 01. 08.<br>~<br>2024. 02 .16.</td>
         <td><img src="https://img.shields.io/badge/Completed-009900?style=default"/></td>
     </tr>
@@ -98,8 +100,9 @@
         </td>
         <td>
             <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
-            <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=default"/><br>
+            <img src="https://img.shields.io/badge/Infrastructure-FF9A00?style=default"/><br>
         </td>
+        <td><a href="https://ubermensch100326.tistory.com/243">📃</a></td>
         <td>2024. 02. 19.<br>~<br>2024. 04 .04.</td>
         <td><img src="https://img.shields.io/badge/Completed-009900?style=default"/></td>
     </tr>
@@ -112,8 +115,9 @@
         </td>
         <td>
             <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
-            <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=default"/><br>
+            <img src="https://img.shields.io/badge/Infrastructure-FF9A00?style=default"/><br>
         </td>
+        <td><a href="https://ubermensch100326.tistory.com/244">📃</a></td>
         <td>2024. 04. 08.<br>~<br>2024. 05 .20.</td>
         <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
     </tr>
