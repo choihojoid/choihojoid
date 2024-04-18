@@ -60,7 +60,6 @@
             <img src="https://img.shields.io/badge/Jenkins-D24939?style=default&logo=jenkins&logoColor=white">
         </td>
     </tr>
-	<tr>
 </table>
 
 </div>
