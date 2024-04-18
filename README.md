@@ -19,45 +19,45 @@
         <th rowspan="5">🗄️ Backend</th>
         <td>Language</td>
         <td>
-            <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white">
+            <img src="https://img.shields.io/badge/Java-437291?style=default&logo=openjdk&logoColor=white">
         </td>
     </tr>
 	<tr>
         <td>Framework</td>
         <td>
-            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=default&logo=Spring Boot&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=default&logo=Spring Security&logoColor=white"/>
         </td>
     </tr>
 	<tr>
         <td>ORM</td>
         <td>
-            <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Hibernate-59666C?style=default&logo=hibernate&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <td>Database</td>
         <td>
-            <img src="https://img.shields.io/badge/MariaDB-4479A1?style=for-the-badge&logo=MariaDb&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MariaDB-4479A1?style=default&logo=MariaDb&logoColor=white"/>
         </td>
     </tr>
 	<tr>
         <td>Test</td>
         <td>
-            <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JUnit5-25A162?style=default&logo=JUnit5&logoColor=white"/>
         </td>
     </tr>
     <tr>
         <th rowspan="2">🏗️ Infrastructure</th>
         <td>Container</td>
         <td>
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=default&logo=docker&logoColor=white"/>
         </td>
     </tr>
 	<tr>
         <td>CI/CD</td>
         <td>
-            <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+            <img src="https://img.shields.io/badge/Jenkins-D24939?style=default&logo=jenkins&logoColor=white">
         </td>
     </tr>
 	<tr>
@@ -80,43 +80,43 @@
         <td><a href="https://github.com/d109-msg">Mafia in SNS Game</a></td>
         <td>사진을 기반으로 일상을 공유하는 기존 SNS 시스템에 리얼 타임으로 진행되는 마피아 게임을 추가한 반응형 웹 서비스</td>
         <td>
-            <img src="https://img.shields.io/badge/2-Frontend-31A8FF?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/4-Backend-83B81A?style=for-the-badge"/><br>
+            <img src="https://img.shields.io/badge/2-Frontend-31A8FF?style=default"/>
+            <img src="https://img.shields.io/badge/4-Backend-83B81A?style=default"/><br>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Backend-83B81A?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=for-the-badge"/><br>
+            <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
+            <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=default"/><br>
         </td>
         <td>2024. 01. 08.<br>~<br>2024. 02 .16.</td>
-        <td><img src="https://img.shields.io/badge/Completed-009900?style=for-the-badge"/></td>
+        <td><img src="https://img.shields.io/badge/Completed-009900?style=default"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/d102-preview">preview</a></td>
         <td>이력서 기반 질문과 꼬리질문을 생성하여 면접 연습 및 분석 결과를 제공하는 서비스</td>
         <td>
-            <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/3-Backend-83B81A?style=for-the-badge"/><br>
+            <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=default"/>
+            <img src="https://img.shields.io/badge/3-Backend-83B81A?style=default"/><br>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Backend-83B81A?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=for-the-badge"/><br>
+            <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
+            <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=default"/><br>
         </td>
         <td>2024. 02. 19.<br>~<br>2024. 04 .04.</td>
-        <td><img src="https://img.shields.io/badge/Completed-009900?style=for-the-badge"/></td>
+        <td><img src="https://img.shields.io/badge/Completed-009900?style=default"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/d106-campu">CampU</a></td>
         <td>캠핑장 등록, 관리, 예약, 알림, 추천을 제공하는 서비스</td>
         <td>
-            <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/3-Backend-83B81A?style=for-the-badge"/><br>
+            <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=default"/>
+            <img src="https://img.shields.io/badge/3-Backend-83B81A?style=default"/><br>
         </td>
         <td>
-            <img src="https://img.shields.io/badge/Backend-83B81A?style=for-the-badge"/>
-            <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=for-the-badge"/><br>
+            <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
+            <img src="https://img.shields.io/badge/CI/CD-FF9A00?style=default"/><br>
         </td>
         <td>2024. 04. 08.<br>~<br>2024. 05 .20.</td>
-        <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=for-the-badge"/></td>
+        <td><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
     </tr>
 </table>
 
