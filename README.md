@@ -2,10 +2,9 @@
 
 <div>
 
-- 🐣 I was born in `Daegu`, Korea in `1997`.
-- 💒 I'm currently living in `Daegu`, Korea.
-- 🎯 I'm currently interested in `backend developer`.
 - 🎓 I majored in `Global Biomedical Engineering` at `Sungkunykwan University` in Korea.
+- 💒 I'm currently living in `Daegu`, `South Korea`.
+- 🎯 I'm currently interested in `backend developer`.
 - 💻 I am currently studying at `Samsung Software Academy For Youth` in Korea.
 
 </div>
