@@ -4,7 +4,7 @@
 
 - 🎓 I majored in `Global Biomedical Engineering` at `Sungkunykwan University`.
 - 👨‍💻 I am working on a project at `Samsung Software Academy For Youth`.
-- 🎯 I'm currently interested in `backend engineer`.
+- 🎯 I am currently interested in `backend engineer`.
 
 </div>
 
