@@ -3,7 +3,8 @@
 <div>
 
 - 🎓 I majored in `Global Biomedical Engineering` at `Sungkunykwan University`.
-- 🎯 I'm currently interested in `backend developer`.
+- 👨‍💻 I am working on a project at `Samsung Software Academy For Youth`.
+- 🎯 I'm currently interested in `backend engineer`.
 
 </div>
 
