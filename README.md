@@ -117,7 +117,7 @@
         </td>
         <td style="text-align: center"><a href="https://ubermensch100326.tistory.com/244" target="_blank">📃</a></td>
         <td style="text-align: center">2024. 04. 08.<br>~<br>2024. 05 .20.</td>
-        <td style="text-align: center"><img src="https://img.shields.io/badge/In Progress-FF0000?style=default"/></td>
+        <td style="text-align: center"><img src="https://img.shields.io/badge/Completed-009900?style=default"/></td>
     </tr>
 </table>
 
