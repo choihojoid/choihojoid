@@ -91,7 +91,7 @@
     </tr>
     <tr>
         <td style="text-align: center"><a href="https://github.com/d102-preview">preview</a></td>
-        <td>이력서 기반 질문과 꼬리질문을 생성하여 면접 연습 및 분석 결과를 제공하는 서비스</td>
+        <td>이력서 기반 질문과 꼬리질문을 생성하여 면접 연습 및 분석 결과를 제공하는 웹 서비스</td>
         <td style="text-align: center">
             <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=default"/>
             <img src="https://img.shields.io/badge/3-Backend-83B81A?style=default"/><br>
@@ -106,7 +106,7 @@
     </tr>
     <tr>
         <td style="text-align: center"><a href="https://github.com/d106-campu">CampU</a></td>
-        <td>캠핑장 등록, 관리, 예약, 알림을 제공하는 서비스</td>
+        <td>캠핑장 등록, 관리, 예약, 알림을 제공하는 웹 서비스</td>
         <td style="text-align: center">
             <img src="https://img.shields.io/badge/3-Frontend-31A8FF?style=default"/>
             <img src="https://img.shields.io/badge/3-Backend-83B81A?style=default"/><br>
