@@ -8,7 +8,7 @@
 
 </div>
 
-<h3 style="margin-top:30px">💪 Skill</h3>
+<h3 style="margin-top:30px">💪 Tech Stack</h3>
 
 <div>
 
