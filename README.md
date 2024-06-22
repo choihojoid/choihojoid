@@ -46,7 +46,7 @@
         </td>
     </tr>
     <tr>
-        <th rowspan="2" style="text-align: center">🏗️ Infrastructure</th>
+        <th rowspan="2" style="text-align: center">🏗️ Infra</th>
         <td style="text-align: center">Container</td>
         <td>
             <img src="https://img.shields.io/badge/Docker-2496ED?style=default&logo=docker&logoColor=white"/>
@@ -83,7 +83,7 @@
         </td>
         <td style="text-align: center">
             <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
-            <img src="https://img.shields.io/badge/Infrastructure-FF9A00?style=default"/><br>
+            <img src="https://img.shields.io/badge/Infra-FF9A00?style=default"/><br>
         </td>
         <td style="text-align: center"><a href="https://ubermensch100326.tistory.com/241" target="_blank">📃</a></td>
         <td style="text-align: center">2024. 01. 08.<br>~<br>2024. 02 .16.</td>
@@ -98,7 +98,7 @@
         </td>
         <td style="text-align: center">
             <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
-            <img src="https://img.shields.io/badge/Infrastructure-FF9A00?style=default"/><br>
+            <img src="https://img.shields.io/badge/Infra-FF9A00?style=default"/><br>
         </td>
         <td style="text-align: center"><a href="https://ubermensch100326.tistory.com/243" target="_blank">📃</a></td>
         <td style="text-align: center">2024. 02. 19.<br>~<br>2024. 04 .04.</td>
@@ -113,7 +113,7 @@
         </td>
         <td style="text-align: center">
             <img src="https://img.shields.io/badge/Backend-83B81A?style=default"/>
-            <img src="https://img.shields.io/badge/Infrastructure-FF9A00?style=default"/><br>
+            <img src="https://img.shields.io/badge/Infra-FF9A00?style=default"/><br>
         </td>
         <td style="text-align: center"><a href="https://ubermensch100326.tistory.com/244" target="_blank">📃</a></td>
         <td style="text-align: center">2024. 04. 08.<br>~<br>2024. 05 .20.</td>
