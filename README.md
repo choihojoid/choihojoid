@@ -122,7 +122,7 @@
 </table>
 
 <div>
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=choihojo&show_icons=true&theme=default"> 
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=choihojoid&show_icons=true&theme=default"> 
     <a href="https://solved.ac/profile/ubermensch100326">
 	  <img align="right" width="40%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ubermensch100326">
     </a>
